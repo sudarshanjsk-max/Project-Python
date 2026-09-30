@@ -26,3 +26,12 @@ distance=2.3
 print(f"the price of the oil can is ${price}")
 print(f"your gpa during your college days in MIT were {gpa}")
 print(f"during 7th grade i used to go to my school by cycle and the distance was {distance} km")
+
+# boolean variable
+is_student = True
+goal = True
+ambition = True
+
+print(f"are you a student? and you want to go to mit right  {is_student}")
+print(f"your goal is to become a software engineer right? {goal}")
+print(f"you also want to score good in your exams right so you can get into mit boston {ambition}")
