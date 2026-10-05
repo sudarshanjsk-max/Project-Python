@@ -14,3 +14,5 @@ print(type(is_student))
 # how to change values using type casting
 gpa=int(gpa)
 print(gpa)
+age=float(age)
+print(age)
