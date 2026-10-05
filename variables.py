@@ -35,4 +35,4 @@ ambition = True
 print(f"are you a student? and you want to go to mit right  {is_student}")
 print(f"your goal is to become a software engineer right? {goal}")
 print(f"you also want to score good in your exams right? so you can get into mit boston {ambition}")
-print(f"are you a student? {is_student}")
+print(f"are you a student ? {is_student}")
