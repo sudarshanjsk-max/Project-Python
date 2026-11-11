@@ -19,4 +19,5 @@ a=float(input("enter the length of side a"))
 b=float(input("enter the length of side b"))
 hypotenuse=math.sqrt(a*a + b*b)
 print(f"the hypotenuse of the right triangle is {hypotenuse}")
+    
 
